@@ -56,6 +56,7 @@ The proposed system significantly improves IoT network security by providing an 
 By integrating machine learning with IoT cybersecurity, the project demonstrates an effective approach for safeguarding modern IoT infrastructures and lays a strong foundation for future advancements such as real-time detection and federated learning–based security systems.
 ## Articles published / References
 1. A. Khurshid, R. Alsaaidi, M. Aslam and S. Raza, "EU Cybersecurity Act and IoT Certification: Landscape, Perspective and a Proposed Template Scheme," in IEEE Access, vol. 10, pp. 129932-129948, 2022, doi: 10.1109/ACCESS.2022.3225973.
+   
 2.U. B. Clinton and N. Hoque, "MU-IoT: A New IoT Intrusion Dataset for Network and Application Layer Attacks Analysis," in IEEE Access, vol. 12, pp. 166068-166092, 2024, doi: 10.1109/ACCESS.2024.3494052.
 
 
