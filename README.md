@@ -1,58 +1,62 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+## Machine Learning-Based Intrusion Detection for IOT Networks
+The Machine Learning–Based Intrusion Detection for IoT Networks project focuses on enhancing the security of Internet of Things (IoT) environments by intelligently detecting and classifying cyberattacks using machine learning techniques. The system aims to identify malicious network activities such as Denial of Service (DoS), Port Scanning, and Malware attacks, thereby improving the reliability and trustworthiness of IoT networks.
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+Machine Learning–Based Intrusion Detection for IoT Networks is designed to overcome the limitations of traditional rule-based security systems, which struggle to detect evolving and zero-day cyber threats. IoT networks generate massive volumes of heterogeneous traffic, making manual monitoring impractical.
+
+This project leverages supervised and unsupervised machine learning algorithms to analyze network traffic patterns and detect anomalies in IoT communication. By learning from historical data, the system can accurately differentiate between normal and malicious behavior, offering a scalable and adaptive solution for securing resource-constrained IoT environments.
+
 
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+
+- Intelligent detection of IoT network attacks using machine learning
+- Supports classification of attacks such as DoS, Port Scanning, and Malware
+- High detection accuracy with reduced false positives
+- Scalable architecture suitable for large IoT networks
+- Efficient analysis of NetFlow-based network traffic data
+- Adaptable to new and evolving cyber threats
 
 ## Requirements
-<!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+
+* Operating System:64-bit Windows 10 or Ubuntu
+* Development Environment: Python 3.6 or later
+* Machine Learning Libraries:Scikit-learn for ML model development and evaluation
+* Data Processing & Visualization:Pandas, NumPy, Matplotlib, Seaborn
+* Version Control:Git for code management
+* IDE: VS Code / Jupyter Notebook *Dataset:NetFlow V9 network traffic dataset (CSV format)
+
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+
+<img width="1068" height="602" alt="image" src="https://github.com/user-attachments/assets/0de888de-7366-4afb-afa9-675a5434b603" />
+
 
 
 ## Output
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+#### Output1 - Attack Classification Result
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+<img width="1267" height="472" alt="image" src="https://github.com/user-attachments/assets/20650f3a-8b78-4d61-9958-7197b40cbd9b" />
+<img width="964" height="688" alt="image" src="https://github.com/user-attachments/assets/9bfe22ac-85e7-42c3-9fb5-4a06dc7a8e7b" />
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+
+
+#### Output2 - Performance Metrics
+<img width="957" height="656" alt="image" src="https://github.com/user-attachments/assets/bcbb036e-b960-4739-970b-6ef692b69398" />
+
+
+
 
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+The proposed system significantly improves IoT network security by providing an intelligent and automated intrusion detection mechanism. It reduces reliance on manual monitoring and static rules, enabling early identification of cyber threats.
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
-
+By integrating machine learning with IoT cybersecurity, the project demonstrates an effective approach for safeguarding modern IoT infrastructures and lays a strong foundation for future advancements such as real-time detection and federated learning–based security systems.
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+1. A. Khurshid, R. Alsaaidi, M. Aslam and S. Raza, "EU Cybersecurity Act and IoT Certification: Landscape, Perspective and a Proposed Template Scheme," in IEEE Access, vol. 10, pp. 129932-129948, 2022, doi: 10.1109/ACCESS.2022.3225973.
+2.U. B. Clinton and N. Hoque, "MU-IoT: A New IoT Intrusion Dataset for Network and Application Layer Attacks Analysis," in IEEE Access, vol. 12, pp. 166068-166092, 2024, doi: 10.1109/ACCESS.2024.3494052.
 
 
 
